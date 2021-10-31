@@ -6,8 +6,11 @@ sections:
       Hola, te damos la bienvenida a èste lugar creativo, para que aprendas
       creando tu Marca Personal.
     subtitle: >-
-      I will handle your website design and production, social media accounts
-      and digital advertisements for you, at an affordable price.
+      Visitanos en nuestro canal de YouTube "DALE PLAY A TU NEUROMARCA"
+      Suscribete e ingresa tus datos en el siguiente formulario y recibe en tu
+      correo, nuestro e-book para que comiences a explorar como en este
+      fascinante portal, aprenderas tu mismo, sin depender de nadie a crear tu
+      NEUROMARCA.
     actions:
       - label: Contact Me
         url: /contact
