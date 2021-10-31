@@ -15,7 +15,7 @@ sections:
       - label: Contact Me
         url: /contact
         style: primary
-      - label: lorem-ipsum
+      - label: daleplayatu
         url: '#'
         style: link
         has_icon: false
