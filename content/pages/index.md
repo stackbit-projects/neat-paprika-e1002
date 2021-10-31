@@ -177,12 +177,15 @@ sections:
     background_image_size: contain
     background_image_opacity: 12
   - type: form_section
-    content: >-
-      ## Let's talk
+    content: >
+      # **Escrìbenos **
 
 
-      If you would like more information about my services and pricing, please
-      contact me using the form below.
+      ### If you would like more information about my services and pricing,
+      please contact me using the form below. Si quieres mas informaciòn acerca
+      de nuestros servicios y precios, por favor contactanos, llenando el
+      formato que encontraras en la parte
+      inferior![](/images/mascota%20dale%20play.png)
     content_align: left
     form_position: right
     form_width: fifty
