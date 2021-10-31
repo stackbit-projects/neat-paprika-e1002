@@ -211,8 +211,9 @@ sections:
       - input_type: checkbox
         name: consent
         label: >-
-          I understand that this form is storing my submitted information so I
-          can be contacted.
+          Entiendo que este formato es para darme de alta en el canal y poder
+          recibir informacion de mi interes a traves del cual, me contactaran
+          con el animo de ayudarme a crecer con mi Marca.
         is_required: true
     submit_label: Send Message
     align_vert: top
