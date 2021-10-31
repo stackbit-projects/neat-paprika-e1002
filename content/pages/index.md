@@ -45,7 +45,7 @@ sections:
       - image: /images/Selfi Esteban Sin FOndo1.jpg
         image_alt: Logo 1
         image_align: center
-      - image: images/logo-2.svg
+      - image: /images/foto carlos sin fondo.png
         image_alt: Logo 2
         image_align: center
       - image: images/logo-3.svg
