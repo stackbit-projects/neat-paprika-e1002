@@ -215,7 +215,7 @@ sections:
           recibir informacion de mi interes a traves del cual, me contactaran
           con el animo de ayudarme a crecer con mi Marca.
         is_required: true
-    submit_label: Send Message
+    submit_label: Enviar
     align_vert: top
     padding_top: medium
     padding_bottom: medium
