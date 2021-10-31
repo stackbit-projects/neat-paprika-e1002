@@ -48,7 +48,7 @@ sections:
       - image: /images/foto carlos sin fondo.png
         image_alt: Logo 2
         image_align: center
-      - image: images/logo-3.svg
+      - image: /images/hero.png
         image_alt: Logo 3
         image_align: center
       - image_alt: Logo 4
