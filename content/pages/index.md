@@ -36,7 +36,9 @@ sections:
     background_image_size: contain
     background_image_opacity: 8
   - type: grid_section
-    title: Trusted by Companies Big and Small
+    title: >-
+      Compañias grandes y pequeñas han confiado en nuestra experiencia y hoy en
+      dia, sus estadìsticas van mejorando.
     subtitle: Nuestro Equipo de Trabajo
     align: center
     grid_items:
