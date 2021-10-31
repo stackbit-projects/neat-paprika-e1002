@@ -15,7 +15,7 @@ sections:
       - label: Contact Me
         url: /contact
         style: primary
-      - label: daleplayatu
+      - label: daleplayatumarca1@gmail.com
         url: '#'
         style: link
         has_icon: false
